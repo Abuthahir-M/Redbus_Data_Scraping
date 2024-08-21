@@ -3,9 +3,16 @@ Redbus Data Scraping with Selenium DETAILED DOCUMENTATION
 
 1. Sample image dict
           goto ---> "StreamLit\img"
+   ![States page](https://github.com/user-attachments/assets/f7f9832e-1225-4fde-b7a1-7adecd90cd90)
+   ![Bus Selection page](https://github.com/user-attachments/assets/28b27d5f-223e-453d-8b22-05f86ea2714e)
+   ![Filter_1](https://github.com/user-attachments/assets/d0ed51fb-4dff-4dc5-b118-5e727413b29f)
+   ![Filter_2](https://github.com/user-attachments/assets/112f3041-d0de-4f0f-a49f-579c8a9403fb)
 
 
-2. Selenium code for web scraping and MySQL database interaction are in the folder
+
+
+
+3. Selenium code for web scraping and MySQL database interaction are in the folder
           
           goto ---> “Web Scrapping & upload to DB\Final_full_scraping_to_DB.ipynb"
 
@@ -23,7 +30,7 @@ Redbus Data Scraping with Selenium DETAILED DOCUMENTATION
           - Use pandas to convert the collected data to dataframe to connect to DB
 
 
-3. MySQL connection
+4. MySQL connection
 
           - Install package
               ! pip instal mysql-connector
@@ -34,7 +41,7 @@ Redbus Data Scraping with Selenium DETAILED DOCUMENTATION
           - Close all DB connections
 
 
-4. StreamLit app located in 
+5. StreamLit app located in 
           goto ---> "StreamLit\redbus.py"
     
           - Import the packages
