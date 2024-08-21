@@ -1,12 +1,12 @@
 Redbus Data Scraping with Selenium DETAILED DOCUMENTATION
 
 1. Sample img dict
-          "StreamLit\img"
+          goto ---> "StreamLit\img"
 
 
 2. Selenium code for web scraping and MySQL database interaction are in the folder
           
-          -> “Web Scrapping & upload to DB\Final_full_scraping_to_DB.ipynb"
+          goto ---> “Web Scrapping & upload to DB\Final_full_scraping_to_DB.ipynb"
 
           Install packages
             ! pip install selenium
@@ -34,7 +34,7 @@ Redbus Data Scraping with Selenium DETAILED DOCUMENTATION
 
 
 4. StreamLit app located in 
-          "StreamLit\redbus.py"
+          goto ---> "StreamLit\redbus.py"
     
           - Import the packages
               import pandas as pd
