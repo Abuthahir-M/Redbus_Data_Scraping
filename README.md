@@ -1,4 +1,5 @@
 Redbus Data Scraping with Selenium DETAILED DOCUMENTATION
+--------------------------------------------------------------------------------
 
 1. Sample image dict
           goto ---> "StreamLit\img"
