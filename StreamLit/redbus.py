@@ -109,7 +109,8 @@ elif menu == 'Bus Selection':
         elif ac_type == 'NON A/C':
             sql_query += """ AND (Bus_Type LIKE '%Non A/C%' 
                                   OR Bus_Type LIKE '%NON A/C%' 
-                                  OR Bus_Type LIKE '%NON-AC%') """
+                                  OR Bus_Type LIKE '%NON-AC%'
+                                  OR Bus_Type LIKE '%Non AC%') """
 
     
 
